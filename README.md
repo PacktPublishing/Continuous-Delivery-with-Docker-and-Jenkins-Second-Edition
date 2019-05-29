@@ -1,2 +1,3 @@
-# Continuous-Delivery-with-Docker-and-Jenkins-Second-Edition
-Continuous Delivery with Docker and Jenkins, Second Edition, Published by Packt
+# Continuous Delivery with Docker and Jenkins
+
+This repository contains Code Samples and Exercise solutions for the book "Continuous Delivery with Docker and Jenkins".
