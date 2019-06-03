@@ -47,7 +47,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Effective DevOps with AWS - Second Edition [[Packt]](https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789539974) [[Amazon]](https://www.amazon.com/dp/1789539978)
 
 * DevOps with Kubernetes - Second Edition [[Packt]](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789533996) [[Amazon]](https://www.amazon.com/dp/1789533996)
-## Get to Know the Authors
+## Get to Know the Author
 **Rafał Leszko**
 is a passionate software developer, trainer, and conference speaker living in Krakow, Poland. He has spent his career writing code, designing architecture, and leading on tech in a number of companies and organizations, including Hazelcast, Google, and CERN. Always open to new challenges, he has given talks and conducted workshops at numerous international conferences, including Devoxx and Voxxed Days.
 
