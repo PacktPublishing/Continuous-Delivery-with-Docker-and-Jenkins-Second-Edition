@@ -1,6 +1,6 @@
 # Continuous Delivery with Docker and Jenkins-Second-Edition
 
-<a href="https://www.packtpub.com/networking-and-servers/zabbix-4-network-monitoring-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789340266"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05928.png" alt="Continuous Delivery with Docker and Jenkins Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/zabbix-4-network-monitoring-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789340266"><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/3326/2019/05/cover.png" alt="Continuous Delivery with Docker and Jenkins Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Continuous Delivery with Docker and Jenkins Second Edition](https://www.packtpub.com/networking-and-servers/zabbix-4-network-monitoring-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789340266), published by Packt.
 
