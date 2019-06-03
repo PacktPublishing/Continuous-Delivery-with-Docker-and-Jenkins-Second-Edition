@@ -33,11 +33,12 @@ ExecStart=/usr/bin/dockerd -H <server_ip>:2375
 
 **Following is what you need for this book:**
 The book targets DevOps engineers, system administrators, docker professionals or any stakeholders who would like to explore the power of working with Docker and Jenkins together. No prior knowledge of DevOps is required for this book.
-With the following software and hardware list you can run all code files present in the book (Chapter 1-22).
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-9).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1-9 | Docker, Jenkins | Computer with Ubuntu,any other Linux system with the kernel version 3.10 or aboveLinux |
+| 1-9 | Docker, Jenkins | Computer with Ubuntu,any other Linux system with the kernel version 3.10 or above Linux |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781838552183_ColorImages.pdf).
