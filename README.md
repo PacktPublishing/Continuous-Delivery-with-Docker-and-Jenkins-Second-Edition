@@ -2,7 +2,7 @@
 
 <a href=""><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/3326/2019/05/cover.png" alt="Continuous Delivery with Docker and Jenkins Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Continuous Delivery with Docker and Jenkins Second Edition](" "), published by Packt.
+This is the code repository for [Continuous Delivery with Docker and Jenkins Second Edition](), published by Packt.
 
 **Create secure applications by building complete CI/CD pipelines**
 
