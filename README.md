@@ -1,8 +1,8 @@
 # Continuous Delivery with Docker and Jenkins-Second-Edition
 
-<a href=""><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/3326/2019/05/cover.png" alt="Continuous Delivery with Docker and Jenkins Second Edition" height="256px" align="right"></a>
+<a href=""><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/5/552183cover.png" alt="Continuous Delivery with Docker and Jenkins Second Edition" height="256px" align="right"></a>
 
-This is the code repository for [Continuous Delivery with Docker and Jenkins Second Edition](), published by Packt.
+This is the code repository for [Continuous Delivery with Docker and Jenkins Second Edition]("https://www.packtpub.com/virtualization-and-cloud/continuous-delivery-docker-and-jenkins-second-edition"), published by Packt.
 
 **Create secure applications by building complete CI/CD pipelines**
 
@@ -17,7 +17,7 @@ This book covers the following exciting features:
 * Write acceptance tests using Cucumber and run them in the Docker ecosystem using Jenkins
 * Publish a built Docker image to a Docker Registry and deploy cycles of Jenkins pipelines using community best practices
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789134323) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838552189) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -53,7 +53,7 @@ is a passionate software developer, trainer, and conference speaker living in Kr
 
 
 # Other book by the author
-* [Continuous Delivery with Docker and Jenkins](https://www.packtpub.com/networking-and-servers/continuous-delivery-docker-and-jenkins?utm_source=github&utm_medium=repository&utm_campaign=9781787125230)
+[Continuous Delivery with Docker and Jenkins](https://www.packtpub.com/networking-and-servers/continuous-delivery-docker-and-jenkins?utm_source=github&utm_medium=repository&utm_campaign=9781787125230)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
