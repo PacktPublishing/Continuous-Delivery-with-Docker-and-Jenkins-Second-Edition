@@ -32,3 +32,5 @@ If the command runs `0` as the result, then the performance test passed correctl
 ### Exercise 2: Create Jenkins pipeline for the Hello World service
 
 The [exercise2](exercise2) directory contains the complete Hello World service together with `Jenkinsfile`.
+
+test
